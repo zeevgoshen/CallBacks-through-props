@@ -1,3 +1,1 @@
-# react-ln6oaj
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ln6oaj)
+basic updating of parent from child by using a function defined in the parent, called by the child
