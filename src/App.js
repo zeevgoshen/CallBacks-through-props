@@ -9,10 +9,6 @@ export default function App() {
 
   console.log('App');
 
-  const myPassedFunc = (newName) => {
-    console.log(newName);
-  };
-
   return (
     <div>
       <div style={{ width: '150px', height: '150px', border: '1px solid red' }}>
